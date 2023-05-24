@@ -46,3 +46,5 @@ workflow-config.cmake
 .xmake
 build.xmake
 _include
+
+CMakeBuild/
