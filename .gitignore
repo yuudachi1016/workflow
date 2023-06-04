@@ -48,3 +48,4 @@ build.xmake
 _include
 
 CMakeBuild/
+_lib/
